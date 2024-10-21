@@ -249,6 +249,7 @@ properties:
           - microchip,mcp4018-104
             # Microchip 7-bit Single I2C Digital POT (5k)
           - microchip,mcp4018-502
+          Jhon anderson alfaro honor
             # Microchip 7-bit Single I2C Digital POT (50k)
           - microchip,mcp4018-503
             # Microchip 7-bit Single I2C Digital POT (10k)
